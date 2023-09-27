@@ -1,9 +1,10 @@
 ## Next.js app with list of meetups
 
-- list of meetups, meetup detail page, creating new meetup
-- using File-Based Routing
-- frontend and backend using Next.js
-
+- List of meetups, meetup detail page, creating new meetup
+- Using File-Based Routing
+- Frontend and backend are created with Next.js
+- API endpoints are created with Next.js API Routes
+- Using cloud database MongoDB Atlas
 
 #### Run the development server:
 
